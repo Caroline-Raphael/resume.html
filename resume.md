@@ -59,11 +59,22 @@
 	</article>
 <article>
 	<h3>Work Experience</h3>
-	<h5><strong>Aventure Capital Inc.</strong></h5>
+	<h5><strong>Aventure Capital Inc. - Miami Beach, Fl</strong></h5>
 <ul>
 	<li>Social Media/Digital Marketing and Operations Intern, 2019 to Present</li>
 	<li><p>Interning with <strong>Aventure Capital Inc.</strong>, I have had the opportunity to lead social and digital media marketing and branding initiatives, including the launch of <strong>SoBe Vegan</strong> and the development of <strong>Accel Advertising</strong>. I have received training in graphic design, marketing, business operations, and SEO.</p></li>
 	</ul>
+<h5><strong>Orange Anchor Bar and Restaurant — Georgetown, DC</strong></h5>
+<ul>
+	<li>Hostess (seasonal employment simultaneous with high school studies), 2015 - 2017</li>
+	<li><p>Worked as a hostess for OA for two years in high school. My tasks included greeting customers and assisting by seating them, clearing tables during a rush, and helping staff and customers in any way needed. Toward the end of my experience there, I worked also as a server for about two months.</p></li>
+	</ul>
+<h5><strong>Promoting Awareness and Victim Empowerment (PAVE) - Arlington, VA</strong></h5>
+<ul>
+	<li>Intern (seasonal employment simultaneous with high school studies), 2016 - 2018</li>
+	<li><p>Worked as an intern for <strong>PAVE</strong> and led the Healthy Relationships Task Force for students in Arlington. I gave talks for <strong>PAVE</strong> to fellow students about sexual assault awareness and prevention, coordinated and led events, and launched social media campaigns.</p></li>
+	</ul>
+	</article>
 <footer>
 	<h6><strong><em>All rights belong to Caroline Raphael.</em></strong></h6>
 	</footer>
