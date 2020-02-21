@@ -59,8 +59,8 @@
 	</article>
 <article>
 	<h3>Work Experience</h3>
+	<h5><strong>Aventure Capital Inc.</strong></h5>
 <ul>
-	<li>Aventure Capital Inc<li>
 	<li>Social Media/Digital Marketing and Operations Intern, 2019 to Present</li>
 	<li><p>Interning with <strong>Aventure Capital Inc.</strong>, I have had the opportunity to lead social and digital media marketing and branding initiatives, including the launch of <strong>SoBe Vegan</strong> and the development of <strong>Accel Advertising</strong>. I have received training in graphic design, marketing, business operations, and SEO.</p></li>
 	</ul>
