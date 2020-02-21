@@ -22,7 +22,7 @@
 <tr>
 	<td>(571)-229-3533</td>
 	<td>csr88@miami.edu</td>
-	<td><a href="https://www.linkedin.com/in/caroline-raphael-817160189/">linkedin.com</a></td>
+	<td><a href="https://www.linkedin.com/in/caroline-raphael-817160189/">Caroline Raphael</a></td>
 </tr>
 </table>	
 <img src="CSR-resume.jpg" alt="Caroline Raphael">
@@ -30,8 +30,8 @@
 	
 <h2>My passion projects</h2>
 <ul>
-	<li><a href="https://sobev.com">sobev.com</a></li>
-	<li><a href="https://www.shatteringthesilence.org">shatteringthesilence.org</a></li>
+	<li><a href="https://sobev.com">SoBe Vegan</a></li>
+	<li><a href="https://www.shatteringthesilence.org">P.A.V.E.</a></li>
 </ul>
 </body>
 </html>
