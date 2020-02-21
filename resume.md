@@ -11,8 +11,15 @@
 </head>
 
 <body>
-	<header>
 	<h1>Caroline Raphael</h1>
+<table>
+	<tr><em>Versatile Communication Skills</em></tr>
+	<tr><em>Proven Leadership Ability</em></tr>
+	<tr><em>Wide Range of Experience</em></tr>
+	</table>
+<img src="CSR-resume.jpg" alt="Caroline Raphael">
+<h6>Photo By: Arleigh Curry</h6>
+<header>
 	<h3>Contact Information</h3>
 <nav>
 <table>
@@ -30,8 +37,7 @@
 	</nav>
 	</header>
 <main>
-<img src="CSR-resume.jpg" alt="Caroline Raphael">
-	<h6>Photo By: Arleigh Curry</h6>
+
 <article>	
 <h3>My Passion Projects</h3>
 <ul>
