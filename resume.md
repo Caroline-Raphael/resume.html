@@ -17,7 +17,7 @@
 <tr>
 	<th>Phone</th>
 	<th>Email</th>
-	<th>LinkedIn</th>
+	<th>Table</th>
 </tr>
 <tr>
 	<td>(571)-229-3533</td>
@@ -27,5 +27,11 @@
 </table>	
 <img src="CSR-resume.jpg" alt="Caroline Raphael">
 	<h6>Photo By: Arleigh Curry</h6>
+	
+<h2>My passion projects</h2>
+<ul>
+	<li><a href="https://sobev.com">sobev.com</a></li>
+	<li><a href="https://www.shatteringthesilence.org">shatteringthesilence.org</a></li>
+</ul>
 </body>
 </html>
