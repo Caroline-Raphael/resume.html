@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<meta charset=“UTF-8”>
+	<meta charset="UTF-8">
 	<!----<title>Caroline Raphael---->
 <!--<style>-->
 <!--td, th { border: 1px solid #CCC; }-->
