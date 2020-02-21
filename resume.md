@@ -39,7 +39,6 @@
 	</nav>
 	</header>
 <main>
-
 <section>
 <aside>
 <h3>My Projects</h3>
@@ -50,7 +49,7 @@
 	</aside>
 	</section>
 <article>
-<h3>Education:</h3>
+<h3>Education</h3>
 <h5><strong>University of Miami</strong></h5>
 	<p>Pursuing a Bachelor of Arts (BA) in <strong>Gender and Sexuality Studies</strong> and a Bachelor of Science and Arts (BSA) in <strong>News Journalism</strong></p>
 <ul>
@@ -58,6 +57,13 @@
 	<li>Expected Graduation May 2021</li>
 	</ul>
 	</article>
+<article>
+	<h3>Work Experience</h3>
+<ul>
+	<li>Aventure Capital Inc<li>
+	<li>Social Media/Digital Marketing and Operations Intern, 2019 to Present</li>
+	<li><p>Interning with <strong>Aventure Capital Inc.</strong>, I have had the opportunity to lead social and digital media marketing and branding initiatives, including the launch of <strong>SoBe Vegan</strong> and the development of <strong>Accel Advertising</strong>. I have received training in graphic design, marketing, business operations, and SEO.</p></li>
+	</ul>
 <footer>
 	<h6><strong><em>All rights belong to Caroline Raphael.</em></strong></h6>
 	</footer>
