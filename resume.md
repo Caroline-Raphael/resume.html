@@ -2,12 +2,12 @@
 <html>
 
 <head>
-	<meta charset=“utf-8”>
-	<!----<title>Caroline Raphael---->
-<!---<style>--->
-<!----td, th { border: 1px solid #CCC; } ---->
-<!----table {border: 1px solid black; }---->
-<!---</style>--->
+	<meta charset=“UTF-8”>
+	<!-<title>Caroline Raphael->
+<!-<style>->
+<!-td, th { border: 1px solid #CCC; } ->
+<!-table {border: 1px solid black; }->
+<!-</style>->
 </head>
 
 <body>
@@ -44,7 +44,7 @@
 <h3>My Projects</h3>
 <ul>
 	<li><a href="https://sobev.com">SoBe Vegan</a></li><p>A start up project with Aventure Capital Inc.</p>
-	<li><a href="https://www.shatteringthesilence.org">P.A.V.E.</a></li>A sexual assault prevention and awareness initiative</p>
+	<li><a href="https://www.shatteringthesilence.org">P.A.V.E.</a></li><p>A sexual assault prevention and awareness initiative</p>
 </ul>
 	</aside>
 	</section>
