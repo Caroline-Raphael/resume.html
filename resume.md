@@ -63,7 +63,7 @@
 <ul>
 	<li>Social Media/Digital Marketing and Operations Intern, 2019 to Present</li>
 	</ul>
-	<p>Interning with <strong>Aventure Capital Inc.</strong>, I have had the opportunity to lead social and digital media marketing and branding initiatives, including the launch of <strong>SoBe Vegan</strong> and the development of <strong>Accel Advertising</strong>. I have received training in graphic design, marketing, business operations, and SEO.</p>\
+	<p>Interning with <strong>Aventure Capital Inc.</strong>, I have had the opportunity to lead social and digital media marketing and branding initiatives, including the launch of <strong>SoBe Vegan</strong> and the development of <strong>Accel Advertising</strong>. I have received training in graphic design, marketing, business operations, and SEO.</p>
 <h5><strong>Orange Anchor Bar and Restaurant — Georgetown, DC</strong></h5>
 <ul>
 	<li>Hostess (seasonal employment simultaneous with high school studies), 2015 - 2017</li>
