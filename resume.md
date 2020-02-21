@@ -3,8 +3,8 @@
 
 <head>
 	<meta charset=“UTF-8”>
-	<!-<title>Caroline Raphael-->
-<!-<style>->
+	<!--<title>Caroline Raphael-->
+<!--<style>->
 <!-td, th { border: 1px solid #CCC; } ->
 <!-table {border: 1px solid black; }->
 <!-</style>->
