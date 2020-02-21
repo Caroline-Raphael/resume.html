@@ -13,10 +13,12 @@
 <body>
 	<h1>Caroline Raphael</h1>
 <table>
-	<tr><em>Versatile Communication Skills</em></tr>
-	<tr><em>Proven Leadership Ability</em></tr>
-	<tr><em>Wide Range of Experience</em></tr>
-	</table>
+<tr>
+	<th><em>Versatile Communication Skills</em></th>
+	<th><em>Proven Leadership Ability</em></th>
+	<th><em>Wide Range of Experience</em></th>
+</tr>
+</table>
 <img src="CSR-resume.jpg" alt="Caroline Raphael">
 <h6>Photo By: Arleigh Curry</h6>
 <header>
