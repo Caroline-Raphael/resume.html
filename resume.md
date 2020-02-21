@@ -9,9 +9,6 @@
 <!----table {border: 1px solid black; }---->
 <!---</style>--->
 </head>
-
-</head>
-
 <body>
 	<h1>Caroline Raphael</h1>
 <table>
