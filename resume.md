@@ -53,7 +53,7 @@
 	</section>
 <article>
 <h3>Education</h3>
-<h5><strong>University of Miami</strong></h5>
+<h4><strong>University of Miami</strong></h4>
 	<p>Pursuing a Bachelor of Arts (BA) in <strong>Gender and Sexuality Studies</strong> and a Bachelor of Science and Arts (BSA) in <strong>News Journalism</strong></p>
 <ul>
 	<li>Minoring in Africana Studies</li>
