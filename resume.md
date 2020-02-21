@@ -54,6 +54,10 @@
 <ul>
 	<li>Minoring in Africana Studies</li>
 	<li>Expected Graduation May 2021</li>
+	</ul>
+<footer>
+	<h6><strong><em>All rights belong to Caroline Raphael.</em></strong></h6>
+	</footer>
 	</article>
 </main>
 </body>
