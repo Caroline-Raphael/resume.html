@@ -62,7 +62,7 @@
 	</article>
 <article>
 	<h3>Work Experience</h3>
-	<h5><strong>Aventure Capital Inc. - Miami Beach, Fl</strong></h5>
+	<h5><strong>Aventure Capital Inc. - Miami Beach, FL</strong></h5>
 <ul>
 	<li>Social Media/Digital Marketing and Operations Intern, 2019 to Present</li>
 	</ul>
