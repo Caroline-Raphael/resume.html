@@ -17,7 +17,7 @@
 <tr>
 	<th>Phone</th>
 	<th>Email</th>
-	<th>Table</th>
+	<th>LinkedIn</th>
 </tr>
 <tr>
 	<td>(571)-229-3533</td>
