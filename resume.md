@@ -4,10 +4,11 @@
 <head>
 	<meta charset=“UTF-8”>
 	<!----<title>Caroline Raphael---->
-<!-<style>->
+<!--<style>->
 <!-td, th { border: 1px solid #CCC; } ->
 <!-table {border: 1px solid black; }->
 <!-</style>->
+
 </head>
 <body>
 	<h1>Caroline Raphael</h1>
