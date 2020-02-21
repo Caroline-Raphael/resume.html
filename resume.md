@@ -32,13 +32,13 @@
 <img src="CSR-resume.jpg" alt="Caroline Raphael">
 	<h6>Photo By: Arleigh Curry</h6>
 	
-<h2>My Passion Projects</h2>
+<h3>My Passion Projects</h3>
 <ul>
 	<li><a href="https://sobev.com">SoBe Vegan</a></li>
 	<li><a href="https://www.shatteringthesilence.org">P.A.V.E.</a></li>
 </ul>
-<h2>Education:</h2>
-<h3><strong>University of Miami</strong></h3>
+<h3>Education:</h3>
+<h5><strong>University of Miami</strong></h5>
 	<p>Pursuing a Bachelor of Arts (BA) in Gender and Sexuality Studies and a Bachelor of Science and Arts (BSA) in News Journalism</p>
 </body>
 </html>
