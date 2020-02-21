@@ -43,8 +43,8 @@
 <article>	
 <h3>My Projects</h3>
 <ul>
-	<li><a href="https://sobev.com">SoBe Vegan</a></li>
-	<li><a href="https://www.shatteringthesilence.org">P.A.V.E.</a></li>
+	<li><a href="https://sobev.com">"SoBe Vegan,"</a></li><p>a start up project with Aventure Capital Inc.</p>
+	<li><a href="https://www.shatteringthesilence.org">"P.A.V.E.,"</a></li>a sexual assault prevention and awareness initiative</p>
 </ul>
 	</article>
 <article>
