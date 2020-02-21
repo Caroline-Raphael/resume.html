@@ -11,8 +11,10 @@
 </head>
 
 <body>
+	<header>
 	<h1>Caroline Raphael</h1>
 	<h3>Contact Information</h3>
+<nav>
 <table>
 <tr>
 	<th>Phone</th>
@@ -24,7 +26,9 @@
 	<td>csr88@miami.edu</td>
 	<td><a href="https://www.linkedin.com/in/caroline-raphael-817160189/">Caroline Raphael</a></td>
 </tr>
-</table>	
+</table>
+	</nav>
+	</header>
 <img src="CSR-resume.jpg" alt="Caroline Raphael">
 	<h6>Photo By: Arleigh Curry</h6>
 	
