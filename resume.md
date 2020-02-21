@@ -40,25 +40,28 @@
 	</header>
 <main>
 
-<article>	
+<section>
+<aside>
 <h3>My Projects</h3>
 <ul>
 	<li><a href="https://sobev.com">SoBe Vegan</a></li><p>A start up project with Aventure Capital Inc.</p>
 	<li><a href="https://www.shatteringthesilence.org">P.A.V.E.</a></li>A sexual assault prevention and awareness initiative</p>
 </ul>
-	</article>
+	</aside>
+	</section>
 <article>
 <h3>Education:</h3>
 <h5><strong>University of Miami</strong></h5>
-	<p>Pursuing a Bachelor of Arts (BA) in Gender and Sexuality Studies and a Bachelor of Science and Arts (BSA) in News Journalism</p>
+	<p>Pursuing a Bachelor of Arts (BA) in <strong>Gender and Sexuality Studies</strong> and a Bachelor of Science and Arts (BSA) in <strongNews Journalism</strong></p>
 <ul>
 	<li>Minoring in Africana Studies</li>
 	<li>Expected Graduation May 2021</li>
 	</ul>
+	</article>
 <footer>
 	<h6><strong><em>All rights belong to Caroline Raphael.</em></strong></h6>
 	</footer>
-	</article>
+	
 </main>
 </body>
 </html>
