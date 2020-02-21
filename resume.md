@@ -12,6 +12,19 @@
 
 <body>
 	<h1>Caroline Raphael</h1>
+	<h3>Contact Information</h3>
+<table>
+<tr>
+	<th>Phone</th>
+	<th>Email</th>
+	<th>LinkedIn</th>
+</tr>
+<tr>
+	<td>(571)-229-3533</td>
+	<td>csr88@miami.edu</td>
+	<td><a href="https://www.linkedin.com/in/caroline-raphael-817160189/">linkedin.com</a></td>
+</tr>
+</table>	
 <img src="CSR-resume.jpg" alt="Caroline Raphael">
 	<h6>Photo By: Arleigh Curry</h6>
 </body>
